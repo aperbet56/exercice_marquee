@@ -19,3 +19,5 @@ Lien vers le projet : https://aperbet56.github.io/exercice_marquee/
 - Page web responsive
 - Desktop first
 - Importation d'un normaliseur : le fichier normalize.css
+- Commentaires HTML
+- Commentaires CSS
