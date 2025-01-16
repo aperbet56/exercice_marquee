@@ -1,4 +1,4 @@
-## EXERCICE CREATION D'UN MARQUEE
+## EXERCICE : CREATION D'UN MARQUEE
 
 Un marquee est un effet d'animation pour les pages Web utilisé pour créer du texte et / ou des images à défilement horizontal ou vertical.
 
@@ -8,7 +8,7 @@ Création d'un marquee en HTML5 et CSS3.
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/exercice_marquee/
 
 ## Projet développé avec
 
